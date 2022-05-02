@@ -1,18 +1,12 @@
-name: generate animation
+name: Generate Datas
 
 on:
   # run automatically every 6 hours
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "* */12 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
-  
-  # run on every push on the master branch
-  push:
-    branches:
-    - main
-    
   
 
 jobs:
