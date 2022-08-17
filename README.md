@@ -1,6 +1,6 @@
 ### Olá Mundo, sou Moisés Gaioli Estevão
 
-- 🌱 No momento estou estudando Django
+- 🌱 No momento estou estudando Python/Django
 
 <div align="center">
   <a href="https://github.com/moisesgaioli">
